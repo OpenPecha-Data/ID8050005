@@ -1,0 +1,32 @@
+id: ID8050005
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:15:13.891860'
+last_modified: '2022-05-31T05:15:13.891870'
+parser: null
+source_metadata:
+  title: Minling Chung Rinpoche Series
+  language: en
+  description: Minling Chung Rinpoche, Ngawang Chödrak (smin gling gcung rin po che
+    ngag dbang chos grags, 1908–1980) was one of the most senior figures associated
+    with the major Nyingma monastery of Mindrolling.
+  volume:
+    fEDA8:
+      title: A Plaintive Prayer to Guru Rinpoche
+      base_file: fEDA8.txt
+      order: 1
+      parent: Guru Rinpoche Prayers
+    f434C:
+      title: 'The Drum of Deathlessness: A Prayer for the Long Life of Minling Chung
+        Rinpoche'
+      base_file: f434C.txt
+      order: 2
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
